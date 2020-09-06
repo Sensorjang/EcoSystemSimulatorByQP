@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1598076821 source:c:\users\51531\desktop\ecosystemsimulatorbyqp\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"space.h"
+	"entity.h"
+	"ecosystem.h"
+	"space.cpp"
+	"entity.cpp"
+	"ecosystem.cpp"
+	"conio.h"
+
+1597771847 c:\users\51531\desktop\ecosystemsimulatorbyqp\space.h
+
+1597771847 c:\users\51531\desktop\ecosystemsimulatorbyqp\space.cpp
+	<bits/stdc++.h>
+
+1598014298 c:\users\51531\desktop\ecosystemsimulatorbyqp\entity.h
+
+1598013911 c:\users\51531\desktop\ecosystemsimulatorbyqp\ecosystem.h
+
+1598017862 c:\users\51531\desktop\ecosystemsimulatorbyqp\entity.cpp
+	<bits/stdc++.h>
+
+1597911116 c:\users\51531\desktop\ecosystemsimulatorbyqp\ecosystem.cpp
+	<bits/stdc++.h>
+
+1597893702 source:c:\users\51531\desktop\ecosystemsimulatorbyqp (1)\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"space.h"
+	"entity.h"
+	"ecosystem.h"
+	"space.cpp"
+	"entity.cpp"
+	"ecosystem.cpp"
+	"conio.h"
+
+1597771847 c:\users\51531\desktop\ecosystemsimulatorbyqp (1)\space.h
+
+1597851095 c:\users\51531\desktop\ecosystemsimulatorbyqp (1)\entity.h
+
+1597824256 c:\users\51531\desktop\ecosystemsimulatorbyqp (1)\ecosystem.h
+
+1597771847 c:\users\51531\desktop\ecosystemsimulatorbyqp (1)\space.cpp
+	<bits/stdc++.h>
+
+1597892151 c:\users\51531\desktop\ecosystemsimulatorbyqp (1)\entity.cpp
+	<bits/stdc++.h>
+
+1597898805 c:\users\51531\desktop\ecosystemsimulatorbyqp (1)\ecosystem.cpp
+	<bits/stdc++.h>
+
